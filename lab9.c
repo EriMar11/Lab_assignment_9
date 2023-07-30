@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define Hash_size 100
+#define Hash_size 10
 
 // RecordType
 struct RecordType
